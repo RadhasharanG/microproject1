@@ -1,0 +1,148 @@
+img{
+     position: absolute;
+     height: 350px;
+     margin-top: 60px;
+     margin-left: 950px;
+ }
+ 
+ .upper{
+     height: 70vh;
+     background-color: #FFCD9E;
+ 
+ }
+ 
+ #lower{ 
+     background-color: black;
+     
+     height: 30vh;
+ }
+ 
+ #div2{ position: absolute;
+     margin-left: 220px;
+     margin-top: 120px;
+     font-weight: bold;
+     font-size: 35px;
+ }
+ 
+ #para{
+     position: absolute;
+      font-weight: lighter;
+      font-size: 26px;
+      margin-left: 220px;
+      margin-top: 190px;
+    
+ }
+ 
+ #show{
+     position: absolute;
+     font-weight: bold;
+     margin-left: 220px;
+     margin-top: 330px;
+     font-size: 20px;
+ }
+ 
+ #email{
+     position: absolute;
+     margin-left: 100px;
+     margin-top: 190px;
+     border: 2px, solid black;
+     border-radius: 8px;
+     width: 220px;
+     height: 30px;
+     padding-left: 20px;
+ }
+ 
+ #btn{
+     position: absolute;
+     margin-left: 490px;
+     margin-top: 380px;
+     background-color: black;
+     border-radius: 8px;
+     width: 200px;
+     height: 35px;
+     color: white;
+     
+ }
+ 
+ #no{
+     position: absolute;
+     margin-left: 350px;
+     margin-top: 450px;
+     color: white;
+     font-size: 18px;
+ 
+ }
+ 
+ #prompt{ color: aliceblue;
+     margin-left: 200px;
+     
+ }
+ 
+ #daily{ color: aliceblue;
+     margin-left: 200px;
+ 
+ }
+ 
+ #all{
+     color: aliceblue;
+     margin-left: 200px;
+ 
+ }
+ 
+ #your{
+ 
+     color: aliceblue;
+     margin-left: 200px;
+    
+ }
+ 
+ #contribute{
+     color: aliceblue;
+     margin-left: 200px;
+   
+ }
+ #low{ position: absolute;
+     margin-left: 150;
+     
+ 
+ }
+ 
+ #sectionleft
+ {
+     position: absolute;
+     color: white;
+     top: 950px;
+     left: 310px;
+     font-size: 30px;
+ }
+ 
+ 
+ #span1{ position: absolute;
+     margin-left: 200px;
+     margin-top: 50px;
+     color: aliceblue;
+ }
+
+ #span2{
+     position: absolute;
+     bottom:50px;
+     right: 200px;
+     color: whitesmoke;
+ }
+ .image img{
+     height: 25px;
+     width: 25px;
+ }
+ .image{
+     position:relative;
+     right: 950px;
+     bottom: 50px;
+     
+ }
+ 
+ 
+
+ 
+ 
+ 
+ 
